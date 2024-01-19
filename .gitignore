@@ -1,0 +1,95 @@
+# Arquivos de dependências
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Arquivos de build
+/dist
+/build
+
+# Arquivps de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração e pastas do ambiente
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos gerados pelo editor (sisntelliJ, Visual Studio Code, etc)
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+```
+*.sublime-project
+*.sublime-workspace
+```
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+```
+# Arquivos de coberutra de testes
+/coverage
+/nyc_output
+/.nyc_output
+/.nyc_output/*
+/.nyc_output/**/*
+
+# Arquivos de cache
+*.log
+.pnp
+.pnp.js
+```
+*.swp
+*.swop
+*.swpx
+*.swpxx
+*.swo
+*.cjs.map
+*.cjs
+*.lock
+*.tmp
+*.temp
+```
+
+# Arquivos de debug
+*.ndb
+*.ts-build-info
+*.tsbuildinfo
+*.ts-node
+
+# Pasta de documentação de API
+/doc
+/docs
+/docz
+/.docz
+/.docz/**/*
+
+# Outros arquivos e pastas
+*.class
+*.tgz
+*.zip
+.myconfig
+.myapp
+.myapp.json
+.myapp.env
+.myapp.env.json
+.myapp.env.json.*
+.myapp.env.json.**
+.myapp.env.json.***
+.eslintcache
+.eslintcache.*
+.tscache
+.husky
+.huskyrc
+.huskyrc.json
+
